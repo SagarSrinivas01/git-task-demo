@@ -1,1 +1,1 @@
-console.log("Added task");
+console.log("Task saved");
