@@ -1,1 +1,1 @@
-console.log("Task Manager");
+console.log("Added task");
